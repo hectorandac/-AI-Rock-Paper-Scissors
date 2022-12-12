@@ -1,1 +1,1 @@
-# -AI-Rock-Paper-Scissors
+# AI-Rock-Paper-Scissors
