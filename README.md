@@ -1,4 +1,4 @@
-# AI-Rock-Paper-Scissors
+# AI Rock Paper Scissors
 This is the development environment for the weights required for the AI Rock Paper Scissors game. This project consists on two parts the backend which heavily relies on the weights generated on this repository for making inferences; and the frontend which provides a user interface the allow the player to interact with this classifier in a game like environment.
 
 There are three versions of this project each one more capable as we progress:
