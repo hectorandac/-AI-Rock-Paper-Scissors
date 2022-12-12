@@ -1,0 +1,6 @@
+[submodule "utility/YOLOv6"]
+	path = utility/YOLOv6
+	url = https://github.com/meituan/YOLOv6.git
+[submodule "utility/draw-YOLO-box"]
+	path = utility/draw-YOLO-box
+	url = https://github.com/waittim/draw-YOLO-box.git

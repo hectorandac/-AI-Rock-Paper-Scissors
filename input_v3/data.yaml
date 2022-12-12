@@ -1,0 +1,7 @@
+train: ../../input_v3/images/train
+val: ../../input_v3/images/val
+test: ../../input_v3/images/test
+nc: 3
+is_coco: False
+
+names: [ "Rock", "Paper", "Scissor" ]

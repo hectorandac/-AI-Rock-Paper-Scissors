@@ -1,0 +1,4 @@
+nc: 4
+is_coco: False
+
+names: [ "hand_1", "hand_2", "hand_3", "hand_4" ]
