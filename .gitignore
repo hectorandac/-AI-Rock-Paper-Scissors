@@ -1,0 +1,15 @@
+/input/**/*.bmp
+/input/**/*.png
+/input/**/*.jpg
+
+/input_v2/**/*.bmp
+/input_v2/**/*.png
+/input_v2/**/*.jpg
+
+/input_v3/**/*.bmp
+/input_v3/**/*.png
+/input_v3/**/*.jpg
+/input_v3/**/*.json
+/input_v3/**/*.txt
+
+/raw_hands/**/*.jpg
